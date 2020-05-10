@@ -13,3 +13,7 @@ Send parameters as a query string:
 * fen = FEN string for the diagram
 * size = size of the diagram (100 to 1000 pixels)
 * reverse = set to true if you want the board to be reversed (black pieces at the bottom)
+
+# Details
+
+Read more about how the code works in [this article](https://www.media-division.com/how-to-create-chess-diagrams-with-php/)
