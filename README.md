@@ -1,4 +1,4 @@
-# PHPChessDiagram
+# Chess Diagram Generator
 Generate chess diagrams with a simple PHP script.
 
 Requires PHP 7 and the GD extension.
